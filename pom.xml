@@ -12,7 +12,7 @@
 	<artifactId>kafka-producer-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kafka-producer-example</name>
-	<description>Kafka with Springboot</description>
+	<description>Kafka Producer with Springboot</description>
 	<url/>
 	<licenses>
 		<license/>
